@@ -4,3 +4,59 @@
 .lemon-bg {
     border: 1px solid black;
 }
+.landing-bg {
+    background: url("https://r.mobirisesite.com/378831/assets/images/photo-1609639643505-3c158a56de42.jpeg");
+}
+.landing-bg-contact {
+    background: url("/assets/images/photo-1611567697084-103eb41f16d5.webp"); 
+}
+.landing-bg-about-us {
+    background: url("/assets/images/photo-1454944338482-a69bb95894af.webp"); 
+}
+.landing-bg-articles {
+    background: url("/assets/images/photo-1589825830744-41bca0122933.webp"); 
+}
+.landing-bg-blog {
+    background: url("/assets/images/photo-1551543758-1dd527f4190b.webp"); 
+}
+.landing-bg-citron-cocktail {
+    background: url("/assets/images/photo-1454944338482-a69bb95894af.webp"); 
+}
+.landing-bg-discover {
+    background: url("/assets/images/photo-1551543758-1dd527f4190b.webp"); 
+}
+.landing-bg-lemoned-cinema-evening {
+    background: url("/assets/images/CitronBienCinema-logo.webp"); 
+}
+.landing-bg-lemoned-recipes {
+    background: url("/assets/images/tarte_au_citron.webp"); 
+}
+.landing-bg-faq {
+    background: url("/assets/images/photo-1551543758-1dd527f4190b.webp"); 
+}
+.landing-bg-read-now {
+    background: url("/assets/images/photo-1589825830744-41bca0122933.webp"); 
+}
+.landing-bg-shining-lemon-festival {
+    background: url("/assets/images/fete_du_citron.webp"); 
+}
+
+.small-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: 0.8rem;
+}
+.small-description p {
+    width: 40%;
+}
+
+.flex-center {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
