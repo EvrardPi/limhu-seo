@@ -7,13 +7,49 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://limhu.fr/about</loc>
+      <loc>https://limhu.fr/about-us.html</loc>
       <lastmod>2024-06-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://limhu.fr/contact</loc>
+      <loc>https://limhu.fr/contact.html</loc>
+      <lastmod>2024-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://limhu.fr/faq.html</loc>
+      <lastmod>2024-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://limhu.fr/shining-lemon-festival.html</loc>
+      <lastmod>2024-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://limhu.fr/citron-cocktail.html</loc>
+      <lastmod>2024-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://limhu.fr/lemoned-recipes.html</loc>
+      <lastmod>2024-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://limhu.fr/lemoned-cinema-evening.html</loc>
+      <lastmod>2024-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://limhu.fr/read-now.html</loc>
       <lastmod>2024-06-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
