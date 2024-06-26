@@ -29,6 +29,9 @@
         "name": "Atelier Cocktail Citronné",
         "description": "Apprenez à créer des cocktails délicieux et rafraîchissants à base de citron.",
         "startDate": "2024-06-24T17:00",
+        "endDate": "2024-06-24T20:00",
+        "eventStatus": "http://schema.org/EventScheduled",
+        "eventAttendanceMode": "http://schema.org/OfflineEventAttendanceMode",
         "location": {
           "@type": "Place",
           "name": "Bar à Citron",
@@ -45,8 +48,21 @@
           "@type": "Organization",
           "name": "Limhu",
           "url": "https://limhu.fr"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://limhu.fr/citron-cocktail.html",
+          "price": "30.00",
+          "priceCurrency": "EUR",
+          "availability": "http://schema.org/InStock",
+          "validFrom": "2024-05-01T00:00"
+        },
+        "performer": {
+          "@type": "Person",
+          "name": "John Doe"
         }
       }
+      </script>
     </script>
     <link
       rel="stylesheet"
@@ -144,7 +160,7 @@
 
             <div class="navbar-buttons mbr-section-btn">
               <a
-                href="/discover.html"
+                href="/articles.html"
                 name=""
                 class="btn btn-secondary display-4"
                 >Découvrir</a

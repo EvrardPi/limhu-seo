@@ -1,8 +1,0 @@
-services:
-  limhu-seo:
-    image: php:8-apache
-    volumes:
-      - ./:/var/www/html
-    ports:
-      - 8080:8080
-      - 80:80
