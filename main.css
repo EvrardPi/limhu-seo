@@ -40,6 +40,21 @@
 .landing-bg-shining-lemon-festival {
     background: url("/assets/images/fete_du_citron.webp"); 
 }
+.landing-bg-beaute {
+    background: url("/assets/images/photo-1590004953392-5aba2e72269a.webp"); 
+}
+.landing-bg-bienfaits {
+    background: url("/assets/images/photo-1593005983557-56fd7e0719ac.webp"); 
+}
+.landing-bg-communaute {
+    background: url("/assets/images/communaute.webp"); 
+}
+.landing-bg-decouvrir {
+    background: url("/assets/images/decouvrir.webp"); 
+}
+.landing-bg-recettes {
+    background: url("/assets/images/citron-recette.jpeg"); 
+}
 
 .small-description {
     display: flex;
