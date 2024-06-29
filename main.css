@@ -1,3 +1,42 @@
+.center-div {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.black-text {
+    color: black;
+}
+
+.title-link-color {
+    color: #752a0d;
+}
+
+.playwrite-es-deco-400 {
+    font-family: "Playwrite ES Deco", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 3rem;
+    font-style: normal;
+}
+
 .lemon-color {
     color: black;
 }
