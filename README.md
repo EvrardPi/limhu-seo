@@ -1,5 +1,7 @@
 # Rapport SEO - [Limhu](https://limhu.fr)
 
+## [Sitemap.xml](https://limhu.fr/sitemap.xml)
+
 ## Actions
 
 ### Spécifications Meta
